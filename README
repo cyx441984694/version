@@ -1,0 +1,6 @@
+flask + react + mysql
+
+To start:
+python app.py
+
+ui repo: client
